@@ -8,13 +8,13 @@ The goal of predicting weather forecasts is to provide weather information peopl
 As a frequent traveller, I wantto see the weather outlook for multiple cities so that I can plan a trip accordingly.
 
 # Technologies Used:
-HTML => for base skeleton for webpage
-CSS => formatting the design
-Bootstrap => for preset HTML designs
-Javascript => for logic and controlling behaviour of the webpage 
-Moment.js => for times and date formatting
-Ajax => for calling on server to retrieve data from another application's API.
-OpenWeatherMAP => Free Weather App that has all the data.
+- HTML => for base skeleton for webpage
+- CSS => formatting the design
+- Bootstrap => for preset HTML designs
+- Javascript => for logic and controlling behaviour of the webpage 
+- Moment.js => for times and date formatting
+- Ajax => for calling on server to retrieve data from another application's API.
+- OpenWeatherMAP => Free Weather App that has all the data.
 
 # Lessons Learned:
 
@@ -32,4 +32,4 @@ OpenWeatherMAP => Free Weather App that has all the data.
 
 31 January 2022
 
-Please see the link for Deployed Project:
+Please see the link for Deployed Project: https://shanchaiz.github.io/WeatherDashboard/
