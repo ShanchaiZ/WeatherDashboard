@@ -26,7 +26,7 @@ As a frequent traveller, I wantto see the weather outlook for multiple cities so
 
 # Screenshot:
 
-![Weatherapp](./Assets/WeatherApp.png)
+![Weatherapp](./assets/WeatherApp.png)
 
 # Launch:
 
